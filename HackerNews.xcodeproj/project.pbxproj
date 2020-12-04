@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		342170DE2579CA2E0085E695 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34CD09962579027D00B85F85 /* NetworkManager.swift */; };
+		342170E12579CA330085E695 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34CD09A2257916DD00B85F85 /* DetailView.swift */; };
+		342170E42579CA3F0085E695 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34CD099A2579047900B85F85 /* PostData.swift */; };
 		34CD09852578FFD700B85F85 /* HackerNewsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34CD09722578FFD500B85F85 /* HackerNewsApp.swift */; };
 		34CD09862578FFD700B85F85 /* HackerNewsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34CD09722578FFD500B85F85 /* HackerNewsApp.swift */; };
 		34CD09872578FFD700B85F85 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34CD09732578FFD500B85F85 /* ContentView.swift */; };
@@ -224,6 +227,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				342170E42579CA3F0085E695 /* PostData.swift in Sources */,
+				342170DE2579CA2E0085E695 /* NetworkManager.swift in Sources */,
+				342170E12579CA330085E695 /* DetailView.swift in Sources */,
 				34CD09882578FFD700B85F85 /* ContentView.swift in Sources */,
 				34CD09862578FFD700B85F85 /* HackerNewsApp.swift in Sources */,
 			);
